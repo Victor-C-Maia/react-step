@@ -16,8 +16,8 @@ const App = () => {
       {/* <HelloWorld2 /> */}
       {/* <Pessoa nome="Zé" sobrenome="das Couves"/> */}
       {/* <ExampleMockApi /> */}
-      <Contador />
-      {/* <MudaCorFundo /> */}
+      {/* <Contador /> */}
+      <MudaCorFundo />
     </>
   );
 };
